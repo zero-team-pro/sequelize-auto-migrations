@@ -6,7 +6,7 @@ This package provide two tools:
 * `runmigration` - tool for apply created by first tool migrations
 
 ## Install
-`npm install sequelize-auto-migrations`
+`npm install @zeroteam/sequelize-auto-migrations`
 
 ## Usage
 * Init sequelize, with sequelize-cli, using `sequelize init`
